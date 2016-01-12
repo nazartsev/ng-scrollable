@@ -1,5 +1,5 @@
 {
-    "name": "bower-asset/ng-scrollable",
+    "name": "bower/ng-scrollable",
     "authors": [
         {
             "name": "Alexander Eichhorn",
@@ -13,7 +13,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "bower-asset\\ng-scrollable\\": ""
+            "bower\\ng-scrollable\\": ""
         }
     }
 }

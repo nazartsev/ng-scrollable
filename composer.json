@@ -1,13 +1,19 @@
 {
-	"name": "nazartsev/ng-scrollable",
-	"author": "Alexander Eichhorn <alex@kidtsunami.com>",
-	"name": "ngScrollable",
-	"description": "Superamazing scrollbars for AngularJS",
-	"version": "0.2.3",
-	"license": "MIT License",
-	"homepage": "https://echa.github.io/ng-scrollable/",
-	"support": {
-		"issues": "https://github.com/echa/ng-scrollable/issues"
-	},
-	"require": {}
+    "name": "nazartsev/ng-scrollable",
+    "authors": [
+        {
+            "name": "Alexander Eichhorn",
+            "email": "alex@kidtsunami.com"
+        }
+    ],
+    "description": "Superamazing scrollbars for AngularJS",
+    "keywords": ["AngularJS", "ng-scrollable"],
+    "homepage": "https://echa.github.io/ng-scrollable/",
+    "type": "yii2-extension",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "nazartsev\\ng-scrollable\\": ""
+        }
+    }
 }

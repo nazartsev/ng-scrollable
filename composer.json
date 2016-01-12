@@ -1,0 +1,13 @@
+{
+	"name": "echa/ng-scrollable",
+	"author": "Alexander Eichhorn <alex@kidtsunami.com>",
+  "name": "ngScrollable",
+	"description": "Superamazing scrollbars for AngularJS",
+	"version": "0.2.3",
+  "license": "MIT License",
+  "homepage": "https://echa.github.io/ng-scrollable/",
+	"support": {
+		"issues": "https://github.com/echa/ng-scrollable/issues"
+	},
+	"require": {}
+}
